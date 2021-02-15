@@ -1,0 +1,3 @@
+id, name, x, y, creationDate, health, category, weaponType, meleeWeapon, chapterName, chapterWorld
+1, Магнус, 15, 14, 2021-02-15, 100, TERMINATOR, BOLTGUN, MANREAPER, Chill, Flex
+2, Магнус, 15, 14, 2021-02-15, 100, TERMINATOR, BOLTGUN, MANREAPER, Chill, Flex
